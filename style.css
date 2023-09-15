@@ -1,0 +1,33 @@
+*
+{
+padding: 0;
+margin: 0;
+}
+body
+{
+         background-image:url("bank.jpg");
+         background-repeat: no-repeat;
+         background-size: cover;
+         background-position:center;
+}
+.menu-bar{
+        text-align: center;
+        background-color: #3399ff;
+    }
+    .menu-bar ul{
+	   display: inline-flex;
+	   color:white;
+   } 
+    .menu-bar ul li{
+	   width:120px;
+	   margin:15px;
+	   padding:15px;
+   }
+   .menu-bar ul li a{
+	   text-decoration:none;
+	   color:white;
+   }
+   h1{
+    background-color: blue;
+    color:white;
+   }
