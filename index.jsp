@@ -1,0 +1,22 @@
+<html>
+<head>
+    
+<link rel="stylesheet" href="style.css">
+<h1 class="colour"><i><b>DIET STUDENTS</b></i></h1>
+</head>
+<body>
+    
+    <div class="menu-bar">
+<ul>
+    <li><a href="index.jsp"> Home</a></li>
+    <li><a href="admin.jsp"> Admin</a></li>
+    <li><a href="#"> Student</a></li>
+    <li><a href="#"> About Us</a></li>
+    <li><a href="#"> Contact Us</a></li>
+
+
+</ul>
+</div>
+</body>
+</html>
+

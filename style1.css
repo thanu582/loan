@@ -5,28 +5,32 @@ margin: 0;
 }
 body
 {
-         background-image:url("bank.jpg");
+        
          background-repeat: no-repeat;
          background-size: cover;
+         background-position:center;
 }
 .menu-bar{
-        text-align: center;
+        text-align: left;
         background-color: #3399ff;
     }
     .menu-bar ul{
-	   display: inline-flex;
+	   display: inline-block;
 	   color:white;
    } 
     .menu-bar ul li{
-	   width:120px;
-	   margin:15px;
-	   padding:15px;
+	     float:left;
+    
+    margin:15px;
+    padding: 10px;
    }
    .menu-bar ul li a{
 	   text-decoration:none;
 	   color:white;
    }
-   h1{
-    background-color: blue;
-    color:white;
+   .colour{
+       background-color: #ffffff;
+       color: #3399ff;
+       text-align: center;
+       padding:25px;
    }
